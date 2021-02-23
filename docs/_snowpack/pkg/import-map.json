@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "canvas-confetti": "./canvas-confetti.js",
+    "face-api.js": "./face-apijs.js"
+  }
+}
